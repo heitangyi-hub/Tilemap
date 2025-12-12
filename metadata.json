@@ -1,0 +1,5 @@
+{
+  "name": "瓦片地图 (Tilemap)小工具",
+  "description": "专业的网页版瓦片地图切片工具，支持自动去重与网格对齐裁剪。",
+  "requestFramePermissions": []
+}
